@@ -48,6 +48,11 @@ npm run build
 
 ```sh
 npm run preview
+npm run dev
+npm run build
+npm run dev:sit
+npm run dev:nft
+npm run dev:uat
 ```
 
 ## 📂 Project Structure
